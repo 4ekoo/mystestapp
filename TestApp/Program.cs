@@ -12,5 +12,7 @@ namespace TestApp
         {
         }
         public void SayHello() { }
+
+        public static void SayBye() { }
     }
 }
